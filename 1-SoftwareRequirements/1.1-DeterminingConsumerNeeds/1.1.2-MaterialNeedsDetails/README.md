@@ -1,2 +1,3 @@
 # Деталізація матеріальних потреб 
-![MindMap_AI203_Vitushkin](https://user-images.githubusercontent.com/104919871/189551701-0c50ed28-c7b1-43b8-8b31-234eaef587c2.jpg)
+
+![MindMap_AI203_Vitushkin](https://user-images.githubusercontent.com/104919871/189585933-10652ff0-9da1-48be-9124-47304ea8f991.jpg)
