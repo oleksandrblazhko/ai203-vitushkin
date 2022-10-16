@@ -3,7 +3,7 @@
 drop table Users CASCADE CONSTRAINTS;
 drop table Students CASCADE CONSTRAINTS;
 drop table Lectors CASCADE CONSTRAINTS;
-drop table Datas CASCADE CONSTRAINTS;
+drop table Data CASCADE CONSTRAINTS;
 drop table Orders CASCADE CONSTRAINTS;
 drop table Recommendations CASCADE CONSTRAINTS;
 
