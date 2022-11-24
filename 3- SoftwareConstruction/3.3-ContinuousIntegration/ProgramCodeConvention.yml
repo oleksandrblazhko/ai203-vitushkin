@@ -10,8 +10,8 @@ jobs:
       - name: Checkout Code in Repo
         uses: actions/checkout@v3
         
-      - name: Lint Program Code
-        uses: github/super-linter@v4
+     - name: Super-Linter
+        uses: github/super-linter@v4.9.7
         env:
           VALIDATE_PYTHON: true
           FILTER_REGEX_INCLUDE: ./*.py
